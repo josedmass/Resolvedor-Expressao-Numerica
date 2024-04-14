@@ -20,7 +20,7 @@ OBS: Os detalhes da implementação, bem como as estruturas de dados utilizados 
 cd /<caminho_para_a_pasta>/TP
 ```
 
-2. Adicione o arquivo de entrada desejado em ./TP, cuja formatação deve seguir o exemplo mostrado ao final de "Documentacao.pdf"
+2. Adicione o arquivo de entrada desejado em ./TP, seguindo a formatação apropriada, como a do exemplo.
 
 3. Compile e execute o programa a partir do arquivo Makefile presente em ./TP
 ```bash
